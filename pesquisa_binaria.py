@@ -1,4 +1,4 @@
-#algoritimo de busca binaria
+#Algoritimo de busca binaria
 def pesquisa_binaria(lista, item):    
     numero_baixo = 0
     numero_alto = len(lista) - 1
